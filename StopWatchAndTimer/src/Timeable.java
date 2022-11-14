@@ -33,4 +33,4 @@ public abstract class Timeable {
         time.setMinute(0);
         time.setSecond(0);
     }
-}
+
