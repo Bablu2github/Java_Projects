@@ -34,3 +34,4 @@ public abstract class Timeable {
         time.setSecond(0);
     }
 
+}
